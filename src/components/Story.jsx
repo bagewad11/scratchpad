@@ -139,7 +139,7 @@ const FloatingImage = () => {
         "story",
         "AX<b>o</b>r<br />Helmet<b>s</b>",
         "AXOR Helmets, known for innovative designs, strength, and safety, offers stylish, functional options for motorcycle enthusiasts. Collaborating with Scratchpad, AXOR expands its digital presence through impactful brand stories and campaigns.",
-        "/img/axor.jpg",
+        "./img/axor.jpg",
         "https://www.scratchpad.co.in/works/axor"
       )}
 
@@ -147,7 +147,7 @@ const FloatingImage = () => {
         "adventure",
         "Aiky<b>a</b><br /> Jewellery",
         "Aikya Jewels in Udupi offers exquisite gold and diamond designs blending tradition and modernity. Scratchpad boosts its digital reach with tailored marketing strategies.",
-        "/img/aikya.jpg",
+        "./img/aikya.jpg",
         "https://www.scratchpad.co.in/works/aikya"
       )}
 
@@ -155,7 +155,7 @@ const FloatingImage = () => {
         "galaxy",
         "Wigwa<b>m</b>",
         " Rising leader in plywood, offers high-quality products for residential and commercial needs. Scratchpad drives targeted campaigns to expand its reach and highlight its excellence.",
-        "/img/wigwam.jpg",
+        "./img/wigwam.jpg",
         "https://www.scratchpad.co.in/works/wigwam"
       )}
 
@@ -163,7 +163,7 @@ const FloatingImage = () => {
         "ocean",
         "BS<b>C</b><br /> C<b>ha</b>nnabasappa & Sons",
         "A renowned Belgaum textile brand, offers premium fabrics blending tradition and modernity. Scratchpad boosts its online presence with tailored marketing strategies.",
-        "/img/bsc.jpg",
+        "./img/bsc.jpg",
         "https://www.scratchpad.co.in/works/bsc"
       )}
 
@@ -171,7 +171,7 @@ const FloatingImage = () => {
         "sky",
         "BIB<b>a</b>",
         "A beloved Indian brand for ethnic wear, expands its digital reach with Scratchpad’s creative marketing and engaging content strategies.",
-        "/img/biba.jpg",
+        "./img/biba.jpg",
         "https://www.scratchpad.co.in/work"
       )}
     </>
