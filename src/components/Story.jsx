@@ -147,7 +147,7 @@ const FloatingImage = () => {
         "adventure",
         "Aiky<b>a</b><br /> Jewellery",
         "Aikya Jewels in Udupi offers exquisite gold and diamond designs blending tradition and modernity. Scratchpad boosts its digital reach with tailored marketing strategies.",
-        "./img/aikya.jpg",
+        "./img/aikya.webp",
         "https://www.scratchpad.co.in/works/aikya"
       )}
 
